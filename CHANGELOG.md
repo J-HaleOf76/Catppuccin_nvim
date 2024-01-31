@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.7.0](https://github.com/catppuccin/nvim/compare/v1.6.0...v1.7.0) (2024-01-31)
+
+
+### Features
+
+* add support for `outline.nvim` plugin ([#647](https://github.com/catppuccin/nvim/issues/647)) ([048c18f](https://github.com/catppuccin/nvim/commit/048c18fc531703815f5e10765ea46ce9b2c75ae4))
+* **integration:** add reactive.nvim integration ([#654](https://github.com/catppuccin/nvim/issues/654)) ([151e478](https://github.com/catppuccin/nvim/commit/151e478edf8108cfd451a3cbd44d0a20503e7b42))
+* **treesitter:** follow upstream captures ([#630](https://github.com/catppuccin/nvim/issues/630)) ([f288876](https://github.com/catppuccin/nvim/commit/f288876c6d05d3bb91b0e72b8031fe9e26ef05b8))
+* use a more distinguishable color for todos ([#645](https://github.com/catppuccin/nvim/issues/645)) ([657cc4f](https://github.com/catppuccin/nvim/commit/657cc4f35cf193cadac7e5471eb802c97e7a1b59))
+
+
+### Bug Fixes
+
+* **dropbar:** correct keyword highlight link ([#652](https://github.com/catppuccin/nvim/issues/652)) ([afab7ec](https://github.com/catppuccin/nvim/commit/afab7ec2a79c7127627dede79c0018b6e45663d0))
+* **integrations:** respect default options ([c2e6f8e](https://github.com/catppuccin/nvim/commit/c2e6f8e7eb8d0ebf55700c89bdf842809aeecf09))
+* **neotree:** add `NeoTreeModified` ([#642](https://github.com/catppuccin/nvim/issues/642)) ([6853cc8](https://github.com/catppuccin/nvim/commit/6853cc8e6efc76e85e10ec153d05fc2520653508))
+* **treesitter:** some captures missing leading `@` ([#650](https://github.com/catppuccin/nvim/issues/650)) ([bc1f215](https://github.com/catppuccin/nvim/commit/bc1f2151f23227ba02ac203c2c59ad693352a741))
+
 ## [1.6.0](https://github.com/catppuccin/nvim/compare/v1.5.0...v1.6.0) (2023-12-28)
 
 
